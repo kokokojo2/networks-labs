@@ -8,3 +8,5 @@
 
 [Лабораторна робота 3а](https://docs.google.com/document/d/1__uFwffvxudN6EMsWdNILkWhWAhzYFwJA6EDEMTUlb0/edit?usp=sharing)
 
+[Лабораторна робота 4](https://docs.google.com/document/d/1ZuBoYJXHn9zdr1klzm8RLW6xx9t3hyJdlVORAryfvdc/edit?usp=sharing)
+
